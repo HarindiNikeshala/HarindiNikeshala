@@ -35,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harindinikeshala&show_icons=true&locale=en&theme=gruvbox&hide_border=true" alt="harindinikeshala" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harindinikeshala&&theme=gruvbox&hide_border=true" alt="harindinikeshala" /></p>
+
+<p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=harindinikeshala&limit=5&theme=gruvbox&hide_border=true&combine_all_yearly_contributions=true" alt="harindinikeshala" /></p>
