@@ -7,15 +7,13 @@
 
 
 
-- 🌱 I’m currently reading for **BSc. (Hons) Information Technology at University of Moratuwa.**
+- 🌱 I have completed **BSc. (Hons) Information Technology at University of Moratuwa.**
 
 - 👯 I’m looking to collaborate on **Development and Designing**
 
 - 👨‍💻 All of my projects are available at [https://harindinikeshala.netlify.app/](https://harindinikeshala.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@harindinikeshala](https://medium.com/@harindinikeshala)
-
-- 💬 Ask me about **FrontEnd Web Development**
 
 - 📫 How to reach me **nikeshalaharindi@gmail.com**
 
